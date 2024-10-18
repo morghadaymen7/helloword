@@ -6,7 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		
 		// À COMPLETER
-
+System.out.println("Je suis une version modifiée du code de l'exo 1");
 	}
 
 }
